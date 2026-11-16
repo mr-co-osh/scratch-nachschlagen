@@ -1,17 +1,18 @@
 # Rechtliches für die Seiten „Profil Coding“
 
-Stand 16.11.2026. Übernommen aus dem Repository `physik-energie` (Seitenfuß und `datenschutz.html`), angepasst an die Scratch-Seiten. Umsetzung im Code: `std_page.py` (Kopfzeile, Seitenfuß, `datenschutz.html`).
+Stand 16.11.2026 (Kontaktdaten abgeglichen mit der Schulhomepage). Übernommen aus dem Repository `physik-energie` (Seitenfuß und `datenschutz.html`), angepasst an die Scratch-Seiten. Umsetzung im Code: `std_page.py` (Kopfzeile, Seitenfuß, `datenschutz.html`).
 
 ## 1. Impressum
 
 > **Oberschule an der Hermannsburg**
 > Hermannsburg 32f
 > 28259 Bremen
-> E-Mail: 505@schule.bremen.de
+> Telefon: 0421-361-15960
+> E-Mail: 505@schulverwaltung.bremen.de
 >
 > Vertreten durch den Schulleiter Achim Kaschub
 
-Der Schulname steht nur im Impressum (STANDARDS.md, Abschnitt 2).
+Der Schulname steht nur im Impressum (STANDARDS.md, Abschnitt 2). Gültige E-Mail-Adresse der Schule: 505@schulverwaltung.bremen.de (nicht 505@schule.bremen.de).
 
 ## 2. Datenschutz im Seitenfuß (jede Seite)
 
@@ -23,7 +24,7 @@ Seitenfuß im Stil der Energie-Seiten: Pflichtsatz, darunter drei Schalter ▸ D
 - **Nichts von fremden Servern:** Schriften, Skripte und Bilder werden von dieser Seite selbst geladen.
 - **Deine Rechte:** Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Beschwerde bei einer Datenschutz-Aufsichtsbehörde.
 - **Verantwortlich:** siehe Impressum.
-- **Datenschutzbeauftragter:** datenschutz nord GmbH, Konsul-Smidt-Straße 88, 28217 Bremen, office@datenschutz-nord.de
+- **Behördlicher Datenschutzbeauftragter:** Sven Venke-Caprarese, datenschutz nord GmbH, Konsul-Smidt-Straße 88, 28217 Bremen, Telefon 0421-69 66 32-0, office@datenschutz-nord.de, www.dsn-group.de
 - Link „Ausführliche Datenschutzhinweise“ → `datenschutz.html`
 
 ## 3. Ausführliche Datenschutz-Seite (`datenschutz.html` in jedem Repository)
