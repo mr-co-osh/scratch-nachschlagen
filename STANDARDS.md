@@ -4,7 +4,7 @@ Diese Regeln gelten dauerhaft für alle Seiten dieses Projekts – für bestehen
 
 **Hintergrund:** Die Seiten sind Unterrichtsmaterial für Schüler:innen (Profil Coding, Sekundarstufe I, Bremen), liegen öffentlich auf GitHub Pages (Konto mr-co-osh) und werden per Link weitergegeben.
 
-Repositories dieses Projekts: `scratch-nachschlagen`, `scratch-hilfen`, `scratch-debugging`.
+Repositories dieses Projekts: `scratch-nachschlagen`, `scratch-hilfen`, `scratch-debugging` – alle dienstlich genutzt. Impressum und Datenschutztexte der Schule (RECHTLICHES.md) gelten nur für Seiten, die die Lehrkraft dienstlich für Schüler:innen nutzt, nicht für private Projekte.
 
 ## 1. Technik und Datenschutz
 

@@ -2,6 +2,10 @@
 
 Stand 16.11.2026 (Kontaktdaten abgeglichen mit der Schulhomepage). Übernommen aus dem Repository `physik-energie` (Seitenfuß und `datenschutz.html`), angepasst an die Scratch-Seiten. Umsetzung im Code: `std_page.py` (Kopfzeile, Seitenfuß, `datenschutz.html`).
 
+## Geltungsbereich
+
+Das Impressum der Schule und diese Datenschutztexte gelten **nur für Seiten, die die Lehrkraft dienstlich für Schüler:innen nutzt**. Private Projekte im Konto mr-co-osh bekommen weder Schul-Impressum noch Schul-Datenschutztexte; dafür wird gesondert entschieden.
+
 ## 1. Impressum
 
 > **Oberschule an der Hermannsburg**
