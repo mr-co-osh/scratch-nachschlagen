@@ -41,11 +41,13 @@ Repositories dieses Projekts: `scratch-nachschlagen`, `scratch-hilfen`, `scratch
 - Zuerst alle bestehenden Seiten gegen diese Regeln prüfen und eine kurze Liste der Abweichungen vorlegen. Erst nach Okay der Lehrkraft ändern. Inhaltliche Aufgaben nicht ungefragt umschreiben.
 - Nach jeder Änderung die Seite im Browser laden und prüfen, dass keine Anfrage an einen fremden Server geht.
 
-## 6. Festlegungen in diesem Projekt (Stand 15.11.2026)
+## 6. Festlegungen in diesem Projekt (Stand 16.11.2026)
 
 - **Scratch-Konto:** Der Kurs nutzt das Klassenkonto der Lehrkraft bei Scratch (Klassen-Studio für Startprojekte) – ausdrücklich freigegeben. Schüler:innen brauchen kein eigenes Konto; sie speichern mit „Datei → Auf deinem Computer speichern“.
 - **Speicherung:** Die Hilfe-Seite merkt sich freigeschaltete Hilfen nur für die Sitzung (sessionStorage, mit try/catch) – bewusst datensparsamer als localStorage. Der Debugging-Trainer speichert gelöste Aufgaben im localStorage (mit try/catch).
 - **Passwörter der Hilfe-Seite:** Im Code stehen nur verschlüsselte Hilfetexte, keine Passwörter. Die Passwörter stehen ausschließlich im Lehrkraft-Material.
 - **Fremder Code:** Block-Grafiken werden mit scratchblocks erzeugt (© 2013–2021 Tim Radvan, MIT-Lizenz). Lizenztext als `LICENSE-scratchblocks.txt` in jedem Repository, Hinweis im Seitenfuß. Die Grafiken sind gezeichnet, keine Screenshots.
-- **Verantwortlicher und Impressum:** Platzhalter „[Angaben folgen]“, bis die Lehrkraft die Angaben liefert. Ob die Seiten privat oder im Auftrag der Schule betrieben werden, klärt die Lehrkraft mit der oder dem Datenschutzbeauftragten der Schule.
-- **Umsetzung:** Kopfzeile und Seitenfuß werden beim Bauen der Seiten automatisch eingefügt (`std_page.py`); jede neue Seite bekommt sie ebenso.
+- **Verantwortlicher und Impressum:** Verantwortlich ist die Schule (Impressum: Oberschule an der Hermannsburg, vertreten durch die Schulleitung), Datenschutzbeauftragter: datenschutz nord GmbH. Wortlaut von Impressum, Datenschutz und Schriftlizenzen: `RECHTLICHES.md` im Projekt, übernommen von den Energie-Seiten. Offen: Rechtsgrundlage und Stand der Datenschutz-Seite (Platzhalter wie bei Energie).
+- **Datenschutz-Seite:** Jedes Repository hat eine `datenschutz.html` im Aufbau der Energie-Seiten; der Seitenfuß verlinkt darauf.
+- **Schriften:** Alle Schriften liegen in `assets/fonts/` mit `LIZENZEN.txt`: Atkinson Hyperlegible Next (Text), Atkinson Hyperlegible Mono (Code), TeX Gyre Heros (Blockbeschriftung). Ausgewählt nach Lesbarkeit – der Inhalt steht im Vordergrund.
+- **Umsetzung:** Kopfzeile (charset, robots, Schriften), Seitenfuß und `datenschutz.html` werden beim Bauen automatisch erzeugt (`std_page.py`); jede neue Seite bekommt sie ebenso.
